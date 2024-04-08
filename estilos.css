@@ -1,6 +1,10 @@
 body {
     background-color: #f2f2f2;
     color: #000;
+    border: #fff;
+    border-radius: 15px;
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
 }
 header {
     background-color: #964B00;
@@ -28,10 +32,12 @@ main {
 #informacion-personal {
     background-color: #fff;
     padding: 20px;
+    font-size: medium;
 }
 #proyectos {
     background-color: #fff;
     padding: 20px;
+    font-size: medium;
 }
 footer {
     background-color: #000;
